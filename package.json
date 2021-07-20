@@ -16,7 +16,7 @@
     "moment": "^2.25.3",
     "react": "16.11.0",
     "react-moment": "^0.9.7",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-cardview": "^1.1.5",
     "react-native-datepicker-dialog": "0.0.9",
     "react-native-deep-linking": "^2.2.0",
